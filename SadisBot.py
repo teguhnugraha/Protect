@@ -2097,7 +2097,7 @@ def bot(op):
                 cl.sendText(msg.to,"Sely")
                 ki.sendText(msg.to,"Cika")
                 kk.sendText(msg.to,"Feby")
-                kc.sendText(msg.to,"Ockta")
+                kc.sendText(msg.to,"Okta")
                 ks.sendText(msg.to,"Zhyu")
                 cl.sendText(msg.to,"Hadir semua boss")
       #-------------Fungsi Respon Finish---------------------#
